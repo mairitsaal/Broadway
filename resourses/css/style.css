@@ -26,6 +26,11 @@ h4, a {
   font-size: 18px;
   color: white;
 }
+h5 {
+  font-family: "Helvetica";
+  font-size: 32px;
+  color: white;
+}
 
 p {
   font-family: "Helvetica";
